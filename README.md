@@ -4,9 +4,9 @@
 
 <div >
   
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelfox1&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelfox1&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=FFFFFF00" width="500" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfox1&layout=compact&theme=github_dark&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfox1&layout=compact&theme=github_dark&hide_border=true&bg_color=FFFFFF00" width="500" />
   
 </div>
  
